@@ -13,7 +13,8 @@
             printf("Hello, World!\n");
             break;
         case 2:
-            printf("Goodbye!\n");
+
+printf("Goodbye!\n");
             break;
         case 3:
             printf("Exiting...\n");
@@ -24,3 +25,6 @@
 
     return 0;
 }
+break statement added
+
+ 
